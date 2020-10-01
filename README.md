@@ -1,4 +1,4 @@
-# Algorithmic-Toolbox COurse In Coursera
+# Algorithmic-Toolbox Course In Coursera
 
 Collection of all my C++ submissions for the coursr offered by UCSD on Coursera. 
 
